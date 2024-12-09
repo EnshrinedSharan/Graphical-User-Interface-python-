@@ -3,6 +3,7 @@
 
 The GUI helps the users of the inventory system project to navigate and use the sytem easily, it tells the user about the object anfd box without directly interacting with the code.
 ![image alt](https://github.com/EnshrinedSharan/Graphical-User-Interface-python-/blob/cea1e1a4b10743911e02ad4c1f382fa07cebef25/scanning%20box.png)
+![image alt](https://github.com/EnshrinedSharan/Graphical-User-Interface-python-/blob/8b5d9e9662ddd23ab9e0fee52c45b75d2b2f8914/starting%20page.png)
 
 
 ## Prerequisites
